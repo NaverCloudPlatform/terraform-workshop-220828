@@ -1,4 +1,9 @@
+.DS_Stroe
+**/*/.DS_Store
+
 config.sh
+**/*/config.sh
+
 .terraform/
 **/*/.terraform/
 
