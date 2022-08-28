@@ -1,0 +1,10 @@
+#!/bin/bash
+
+export NCLOUD_ACCESS_KEY=
+export NCLOUD_SECRET_KEY=
+export TF_VAR_access_key=$NCLOUD_ACCESS_KEY
+export TF_VAR_secret_key=$NCLOUD_SECRET_KEY
+export TF_LOG=ERROR
+export TF_LOG_PATH="./terraform.log"
+
+alias t=terraform
