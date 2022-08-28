@@ -1,0 +1,19 @@
+---
+- name: set etc hosts
+  hosts: 
+  - all
+  vars: 
+    targets: 
+%{ for key, value in servers ~}
+    - ${key}: ${value.private_ip}
+%{ endfor ~}
+  tasks:
+  - lineinfile:
+      path: /etc/hosts
+      regexp: "^.+ {{ item.key }}$"
+      state: absent
+    with_dict: "{{ targets }}"
+  - lineinfile:
+      path: /etc/hosts
+      line: "{{ item.value }} {{ item.key }}" 
+    with_dict: "{{ targets }}"

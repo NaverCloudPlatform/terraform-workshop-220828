@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"vpc","Source":"registry.terraform.io/terraform-ncloud-modules/vpc/ncloud","Version":"0.0.6","Dir":".terraform/modules/vpc"},{"Key":"","Source":"","Dir":"."},{"Key":"servers","Source":"registry.terraform.io/terraform-ncloud-modules/server/ncloud","Version":"0.0.4","Dir":".terraform/modules/servers"}]}

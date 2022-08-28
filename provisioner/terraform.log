@@ -1,0 +1,267 @@
+2022-08-26T14:05:23.055+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:05:23.057+0900 [ERROR] vertex "data.terraform_remote_state.infra" error: Unsupported block type
+2022-08-26T14:06:16.585+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:06:16.585+0900 [ERROR] vertex "data.terraform_remote_state.infra" error: Unsupported block type
+2022-08-26T14:06:33.465+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:06:33.465+0900 [ERROR] vertex "data.terraform_remote_state.infra" error: Unsupported block type
+2022-08-26T14:07:35.700+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:07:35.701+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:07:56.918+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:07:56.918+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:07:59.585+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:09:12.199+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:09:12.199+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:09:15.130+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:09:36.065+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:09:36.066+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:09:38.933+0900 [ERROR] vertex "local.servers" error: Unsupported attribute
+2022-08-26T14:09:38.934+0900 [ERROR] vertex "local.servers" error: Unsupported attribute
+2022-08-26T14:09:38.934+0900 [ERROR] vertex "local.servers" error: Unsupported attribute
+2022-08-26T14:09:38.934+0900 [ERROR] vertex "local.servers" error: Unsupported attribute
+2022-08-26T14:09:38.934+0900 [ERROR] vertex "local.servers (expand)" error: Unsupported attribute
+2022-08-26T14:09:38.934+0900 [ERROR] vertex "local.servers (expand)" error: Unsupported attribute
+2022-08-26T14:09:38.934+0900 [ERROR] vertex "local.servers (expand)" error: Unsupported attribute
+2022-08-26T14:09:38.934+0900 [ERROR] vertex "local.servers (expand)" error: Unsupported attribute
+2022-08-26T14:10:07.786+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:10:07.787+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:10:10.524+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:11:22.697+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:11:22.698+0900 [ERROR] vertex "local.bastion_ip" error: Unsupported attribute
+2022-08-26T14:11:22.698+0900 [ERROR] vertex "local.bastion_ip (expand)" error: Unsupported attribute
+2022-08-26T14:11:22.698+0900 [ERROR] vertex "local.bastion_rootpw" error: Unsupported attribute
+2022-08-26T14:11:22.698+0900 [ERROR] vertex "local.bastion_rootpw (expand)" error: Unsupported attribute
+2022-08-26T14:11:31.549+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:11:31.549+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:11:34.883+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:14:24.940+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:14:24.941+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:14:28.359+0900 [ERROR] vertex "output.test" error: Invalid function argument
+2022-08-26T14:14:38.030+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:14:38.031+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:14:40.949+0900 [ERROR] vertex "output.test" error: Invalid function argument
+2022-08-26T14:14:55.194+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:14:55.195+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:14:57.862+0900 [ERROR] vertex "output.test" error: Invalid function argument
+2022-08-26T14:15:41.079+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:15:41.081+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:15:44.362+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:16:32.441+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:16:32.514+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:16:35.328+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:03.586+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:03.659+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:06.422+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:21.740+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:21.811+0900 [ERROR] vertex "output.test" error: Reference to undeclared local value
+2022-08-26T14:17:29.939+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:30.013+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:32.818+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:33.748+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:17:33.997+0900 [ERROR] scp stderr: "Sink: C0644 282 inventory.ini\n"
+2022-08-26T14:30:05.979+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:30:06.056+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:30:08.999+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:38:45.860+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:38:45.941+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:38:48.724+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:39:00.161+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-26T14:39:00.402+0900 [ERROR] scp stderr: "Sink: C0644 54 terraform_2131068010.sh\n"
+2022-08-26T14:39:42.740+0900 [ERROR] vertex "null_resource.install_packages" error: remote-exec provisioner error
+2022-08-28T22:12:26.336+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:12:26.397+0900 [ERROR] vertex "null_resource.ssh_copy_id" error: Invalid function argument
+2022-08-28T22:38:14.774+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:38:14.834+0900 [ERROR] vertex "null_resource.ssh_copy_id" error: Invalid function argument
+2022-08-28T22:38:26.667+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:38:26.669+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:38:26.670+0900 [ERROR] vertex "data.terraform_remote_state.infra" error: Failed to read state file
+2022-08-28T22:38:26.670+0900 [ERROR] vertex "data.terraform_remote_state.infra" error: Failed to read state file
+2022-08-28T22:38:26.670+0900 [ERROR] vertex "data.terraform_remote_state.infra (expand)" error: Failed to read state file
+2022-08-28T22:39:01.375+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:39:01.378+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:39:01.385+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:40:29.382+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:40:29.385+0900 [ERROR] vertex "output.bastion_info" error: Output refers to sensitive values
+2022-08-28T22:40:53.922+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:40:53.924+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:40:53.930+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:41:44.288+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:41:44.291+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:41:44.295+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:55:24.375+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:55:24.437+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:55:24.503+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:55:27.349+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:55:27.413+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:55:27.476+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:55:29.285+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:55:29.386+0900 [ERROR] vertex "null_resource.set_ansible_inventory_on_bastion" error: Error in function call
+2022-08-28T22:55:29.523+0900 [ERROR] scp stderr: "Sink: C0644 517 ssh-copy-id.sh\n"
+2022-08-28T22:55:29.526+0900 [ERROR] scp stderr: "Sink: C0644 209 install-packages.sh\n"
+2022-08-28T22:55:29.627+0900 [ERROR] scp stderr: "Sink: C0644 28 terraform_1575503539.sh\n"
+2022-08-28T22:55:29.630+0900 [ERROR] scp stderr: "Sink: C0644 33 terraform_494830928.sh\n"
+2022-08-28T22:55:29.710+0900 [ERROR] vertex "null_resource.install_packages_on_bastion" error: remote-exec provisioner error
+2022-08-28T22:55:29.729+0900 [ERROR] vertex "null_resource.ssh_copy_id_from_bastion_to_workers" error: remote-exec provisioner error
+2022-08-28T22:56:07.324+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:56:07.387+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:56:07.458+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:56:08.954+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:56:09.130+0900 [ERROR] vertex "null_resource.set_ansible_inventory_on_bastion" error: Error in function call
+2022-08-28T22:56:09.263+0900 [ERROR] scp stderr: "Sink: C0644 517 ssh-copy-id.sh\n"
+2022-08-28T22:56:09.267+0900 [ERROR] scp stderr: "Sink: C0644 209 install-packages.sh\n"
+2022-08-28T22:56:09.365+0900 [ERROR] scp stderr: "Sink: C0644 34 terraform_387144724.sh\n"
+2022-08-28T22:56:09.368+0900 [ERROR] scp stderr: "Sink: C0644 39 terraform_973026104.sh\n"
+2022-08-28T22:56:09.446+0900 [ERROR] vertex "null_resource.ssh_copy_id_from_bastion_to_workers" error: remote-exec provisioner error
+2022-08-28T22:56:09.465+0900 [ERROR] vertex "null_resource.install_packages_on_bastion" error: remote-exec provisioner error
+2022-08-28T22:58:12.831+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:58:12.897+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:58:12.971+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:58:14.022+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T22:58:14.197+0900 [ERROR] vertex "null_resource.set_ansible_inventory_on_bastion" error: Error in function call
+2022-08-28T22:58:14.331+0900 [ERROR] scp stderr: "Sink: C0644 517 ssh-copy-id.sh\n"
+2022-08-28T22:58:14.335+0900 [ERROR] scp stderr: "Sink: C0644 209 install-packages.sh\n"
+2022-08-28T22:58:14.430+0900 [ERROR] scp stderr: "Sink: C0644 39 terraform_1574647281.sh\n"
+2022-08-28T22:58:14.434+0900 [ERROR] scp stderr: "Sink: C0644 34 terraform_2059809745.sh\n"
+2022-08-28T22:58:14.514+0900 [ERROR] vertex "null_resource.ssh_copy_id_from_bastion_to_workers" error: remote-exec provisioner error
+2022-08-28T22:59:29.425+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_1574647281.sh\n"
+2022-08-28T23:00:35.834+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:00:35.835+0900 [ERROR] vertex "output.bastion" error: Call to unknown function
+2022-08-28T23:00:44.541+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:00:44.541+0900 [ERROR] vertex "output.bastion" error: Call to unknown function
+2022-08-28T23:01:51.138+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:01:51.140+0900 [ERROR] vertex "output.bastion" error: Call to unknown function
+2022-08-28T23:01:57.192+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:01:57.276+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:01:57.340+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:01:58.368+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:02:32.913+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:02:32.977+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:02:33.044+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:02:33.953+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:02:34.069+0900 [ERROR] vertex "null_resource.set_ansible_inventory_on_bastion" error: Error in function call
+2022-08-28T23:02:34.189+0900 [ERROR] scp stderr: "Sink: C0644 209 install-packages.sh\n"
+2022-08-28T23:02:34.193+0900 [ERROR] scp stderr: "Sink: C0644 517 ssh-copy-id.sh\n"
+2022-08-28T23:02:34.286+0900 [ERROR] scp stderr: "Sink: C0644 39 terraform_42738793.sh\n"
+2022-08-28T23:02:34.287+0900 [ERROR] scp stderr: "Sink: C0644 34 terraform_1478592592.sh\n"
+2022-08-28T23:02:34.367+0900 [ERROR] vertex "null_resource.ssh_copy_id_from_bastion_to_workers" error: remote-exec provisioner error
+2022-08-28T23:03:10.082+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_42738793.sh\n"
+2022-08-28T23:04:48.807+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:04:48.867+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:04:48.932+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:04:50.694+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:04:50.850+0900 [ERROR] vertex "null_resource.set_ansible_inventory_on_bastion" error: Error in function call
+2022-08-28T23:04:50.960+0900 [ERROR] scp stderr: "Sink: C0644 517 ssh-copy-id.sh\n"
+2022-08-28T23:04:51.063+0900 [ERROR] scp stderr: "Sink: C0644 34 terraform_1600364713.sh\n"
+2022-08-28T23:04:51.141+0900 [ERROR] vertex "null_resource.ssh_copy_id_from_bastion_to_workers" error: remote-exec provisioner error
+2022-08-28T23:05:32.593+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:05:32.654+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:05:32.720+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:05:33.579+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:05:33.756+0900 [ERROR] vertex "null_resource.set_ansible_inventory_on_bastion" error: Error in function call
+2022-08-28T23:05:33.880+0900 [ERROR] scp stderr: "Sink: C0644 275 install-packages.sh\n"
+2022-08-28T23:05:33.883+0900 [ERROR] scp stderr: "Sink: C0644 517 ssh-copy-id.sh\n"
+2022-08-28T23:05:33.981+0900 [ERROR] scp stderr: "Sink: C0644 39 terraform_1170527713.sh\n"
+2022-08-28T23:05:33.983+0900 [ERROR] scp stderr: "Sink: C0644 34 terraform_1125088390.sh\n"
+2022-08-28T23:05:34.067+0900 [ERROR] vertex "null_resource.ssh_copy_id_from_bastion_to_workers" error: remote-exec provisioner error
+2022-08-28T23:07:21.835+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_1170527713.sh\n"
+2022-08-28T23:09:13.311+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:09:13.374+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:09:13.442+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:09:14.567+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:09:14.751+0900 [ERROR] vertex "null_resource.set_ansible_inventory_on_bastion" error: Error in function call
+2022-08-28T23:09:14.863+0900 [ERROR] scp stderr: "Sink: C0644 517 ssh-copy-id.sh\n"
+2022-08-28T23:09:14.867+0900 [ERROR] scp stderr: "Sink: C0644 289 install-packages.sh\n"
+2022-08-28T23:09:14.967+0900 [ERROR] scp stderr: "Sink: C0644 34 terraform_673520618.sh\n"
+2022-08-28T23:09:14.972+0900 [ERROR] scp stderr: "Sink: C0644 39 terraform_262470749.sh\n"
+2022-08-28T23:09:15.055+0900 [ERROR] vertex "null_resource.ssh_copy_id_from_bastion_to_workers" error: remote-exec provisioner error
+2022-08-28T23:09:21.644+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_262470749.sh\n"
+2022-08-28T23:10:13.094+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:10:13.155+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:10:13.222+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:10:14.211+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:10:14.371+0900 [ERROR] vertex "null_resource.set_ansible_inventory_on_bastion" error: Error in function call
+2022-08-28T23:10:14.486+0900 [ERROR] scp stderr: "Sink: C0644 517 ssh-copy-id.sh\n"
+2022-08-28T23:10:14.591+0900 [ERROR] scp stderr: "Sink: C0644 34 terraform_1504986836.sh\n"
+2022-08-28T23:10:18.161+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_1504986836.sh\n"
+2022-08-28T23:11:21.468+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:11:21.540+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:11:21.610+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:11:22.426+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:11:22.663+0900 [ERROR] scp stderr: "Sink: C0644 229 inventory.ini\n"
+2022-08-28T23:15:52.124+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:15:52.191+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:15:52.267+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:15:53.301+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:15:53.516+0900 [ERROR] scp stderr: "Sink: C0644 481 set-etc-hosts.yaml\n"
+2022-08-28T23:15:53.611+0900 [ERROR] scp stderr: "Sink: C0644 63 terraform_1422632688.sh\n"
+2022-08-28T23:15:59.698+0900 [ERROR] vertex "null_resource.set_etc_hosts_on_all_nodes" error: remote-exec provisioner error
+2022-08-28T23:17:19.997+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:17:20.059+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:17:20.128+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:17:21.003+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:17:21.269+0900 [ERROR] scp stderr: "Sink: C0644 311 inventory.ini\n"
+2022-08-28T23:17:21.397+0900 [ERROR] scp stderr: "Sink: C0644 481 set-etc-hosts.yaml\n"
+2022-08-28T23:17:21.496+0900 [ERROR] scp stderr: "Sink: C0644 63 terraform_1046728250.sh\n"
+2022-08-28T23:17:27.386+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_1046728250.sh\n"
+2022-08-28T23:30:42.708+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:30:42.769+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Error in function call
+2022-08-28T23:30:42.769+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Error in function call
+2022-08-28T23:30:42.769+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Reference to undeclared input variable
+2022-08-28T23:30:42.769+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Reference to undeclared input variable
+2022-08-28T23:30:42.769+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Cannot set both 'source' and 'content'
+2022-08-28T23:30:42.772+0900 [ERROR] vertex "null_resource.set_etc_hosts_on_all_servers" error: Error in function call
+2022-08-28T23:31:33.406+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:31:33.469+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Error in function call
+2022-08-28T23:31:33.469+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Reference to undeclared input variable
+2022-08-28T23:31:33.469+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Reference to undeclared input variable
+2022-08-28T23:31:33.469+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Cannot set both 'source' and 'content'
+2022-08-28T23:31:33.470+0900 [ERROR] vertex "null_resource.set_etc_hosts_on_all_servers" error: Error in function call
+2022-08-28T23:31:46.347+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:31:46.410+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Reference to undeclared input variable
+2022-08-28T23:31:46.410+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Reference to undeclared input variable
+2022-08-28T23:31:46.410+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Cannot set both 'source' and 'content'
+2022-08-28T23:31:46.410+0900 [ERROR] vertex "null_resource.set_etc_hosts_on_all_servers" error: Error in function call
+2022-08-28T23:32:16.436+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:32:16.501+0900 [ERROR] vertex "null_resource.set_etc_hosts_on_all_servers" error: Error in function call
+2022-08-28T23:32:33.298+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:32:33.364+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:32:33.436+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:32:35.653+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:32:35.905+0900 [ERROR] scp stderr: "Sink: C0644 311 inventory.ini\n"
+2022-08-28T23:32:36.050+0900 [ERROR] scp stderr: "Sink: C0644 3265 configure-cla.sh\n"
+2022-08-28T23:32:36.055+0900 [ERROR] scp stderr: "Sink: C0644 481 set-etc-hosts.yaml\n"
+2022-08-28T23:32:36.175+0900 [ERROR] scp stderr: "Sink: C0644 63 terraform_2103744252.sh\n"
+2022-08-28T23:32:42.068+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_2103744252.sh\n"
+2022-08-28T23:34:26.216+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:34:26.284+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:34:26.359+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:34:27.391+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:34:27.620+0900 [ERROR] scp stderr: "Sink: C0644 3283 configure-cla.sh\n"
+2022-08-28T23:36:17.615+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:36:17.679+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:36:17.750+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:36:18.573+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:36:18.810+0900 [ERROR] scp stderr: "Sink: C0644 3269 configure-cla.sh\n"
+2022-08-28T23:42:43.442+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:42:43.504+0900 [ERROR] vertex "null_resource.configure_cla_for_all_servers" error: Invalid function argument
+2022-08-28T23:43:00.489+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:43:00.552+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:43:00.623+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:43:03.535+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:43:03.773+0900 [ERROR] scp stderr: "Sink: C0644 3272 configure-cla.sh\n"
+2022-08-28T23:44:48.581+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:44:48.647+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:44:48.718+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:44:55.760+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:44:55.822+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:44:55.890+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:44:56.712+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:44:56.948+0900 [ERROR] scp stderr: "Sink: C0644 3272 configure-cla.sh\n"
+2022-08-28T23:44:57.049+0900 [ERROR] scp stderr: "Sink: C0644 30 terraform_929219546.sh\n"
+2022-08-28T23:45:07.737+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_929219546.sh\n"
+2022-08-28T23:45:10.609+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:45:10.671+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:45:10.741+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:45:11.642+0900 [ERROR] AttachSchemaTransformer: No provider config schema available for provider["terraform.io/builtin/terraform"]
+2022-08-28T23:45:11.870+0900 [ERROR] scp stderr: "Sink: C0644 3272 configure-cla.sh\n"
+2022-08-28T23:45:11.962+0900 [ERROR] scp stderr: "Sink: C0644 30 terraform_483785344.sh\n"
+2022-08-28T23:45:21.522+0900 [ERROR] scp stderr: "Sink: C0644 0 terraform_483785344.sh\n"
